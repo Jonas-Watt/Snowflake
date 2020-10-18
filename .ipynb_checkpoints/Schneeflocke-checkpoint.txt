@@ -1,0 +1,3 @@
+- Eine Basis, die unbeweglich ist
+- Moleküle, die sich zufällig bewegen
+- wenn sich zwei Moleküle treffen, bewegen sie sich zusammen weiter
