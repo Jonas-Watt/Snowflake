@@ -1,3 +1,7 @@
 - Eine Basis, die unbeweglich ist
 - Moleküle, die sich zufällig bewegen
 - wenn sich zwei Moleküle treffen, bewegen sie sich zusammen weiter
+
+Nach Vollendung gelernt:
+- in dem Sixty Symbols Video klumpen einzelne Moleküle nicht (oder deutlich seltener)
+- eine Molekülklasse ist wahrscheinlich	rechenaufwendiger, als eine Liste mit Sublisten
